@@ -38,7 +38,8 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'rest_framework',  # Add Django REST Framework
-    'products',  # Add app
+    'products',  # Add products app
+    'users', # Add users
 ]
 
 
